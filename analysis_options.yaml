@@ -1,0 +1,6 @@
+# Analyzer rules for the Flutter starter app.
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    avoid_print: true
